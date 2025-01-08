@@ -4,7 +4,6 @@ import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { Button } from "@/components/ui/button"
 import { Textarea } from "@/components/ui/textarea"
-import { validateJSON } from '../utils/validateJSON'
 import { generateResumeData } from '@/utils/generateResumeData'
 
 export default function Home() {
