@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Resume Generator',
-  description: 'Generate a beautiful resume from JSON input',
+  description: 'Generate a beautiful resume built with AI',
 }
 
 export default function RootLayout({
